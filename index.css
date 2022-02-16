@@ -1,0 +1,26 @@
+body{
+  background:violet;
+  background:linear-gradient(orange,yellow,red,blue,green);
+height:100vh
+}
+
+button{
+  background:brown;
+} 
+
+.violeta{
+  background:violet;
+}
+p{
+ font-size: 50px;
+}
+
+.somos-enprendedores{
+  font-size: 100px;    
+}
+
+button
+{
+  font-family: 'Gwendolyn', cursive
+}
+#cuadro{background:white }
